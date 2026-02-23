@@ -29,7 +29,7 @@ Je navigue à l'intersection du **design créatif** et de l'**entrepreneuriat te
 
 ## 📊 Mes liens & Apps
 
-![Mon site web personnel de Kael](https://kaelbelceus.framer.website/)
+![Mon site web personnel de Kael] (https://kaelbelceus.framer.website/)
 
 ---
 
